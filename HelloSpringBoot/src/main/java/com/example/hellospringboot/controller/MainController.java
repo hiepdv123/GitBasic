@@ -27,6 +27,10 @@ public class MainController {
 	    @Value("${welcome.message}")
 	    private String message;
 	 
+	    
+	    
+	    
+	    
 	    @Value("${error.message}")
 	    private String errorMessage;
 	 
