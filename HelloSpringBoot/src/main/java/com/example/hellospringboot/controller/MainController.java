@@ -19,7 +19,7 @@ public class MainController {
 	  private static List<Person> persons = new ArrayList<Person>();
 	  
 	    static {
-	        persons.add(new Person("Bill", "Gates"));
+	        persons.add(new Person("Bill", "HiepDV2"));
 	        persons.add(new Person("Steve", "Jobs"));
 	    }
 	 
